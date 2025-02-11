@@ -1,1 +1,1 @@
-# badpiggiesflash
+# My Game Collection
